@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
-global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //name
-global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
+global.vcardowner = ['254735847430'] //ganti nomer lu
+global.ownername = "josh" //ganti nama lu
+global.developer = "josh" //name
+global.ytname = "YT: joshhacker" //ur yt chanel name
 global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
-global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
-global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
+global.sgc = "https://chat.whatsapp.com/L1WPGu41nFG4CCSkyFmRbx" //ganti group lu
+global.location = "Kenya, Nairobi" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
+global.owner = ['254735847430'] //ur number
+global.ownernomer = "254735847430" //ur number
+global.ownertag = '254735847430' //ur tag number
+global.premium = ['254735847430'] //ur premium number
+global.botname = 'JOSHHACKER MD+' //ur bot name
+global.ownername = "JOSH"
 global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "917012984396"
-global.pulsa = "917012984396"
+global.dana = "254735847430"
+global.pulsa = "254735847430"
 global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
 global.websitex1 = "https://sparkymodswa.blogspot.com"
-global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
+global.botscript = 'https://github.com/Joshhacker254/SPARKY-BOT-MD' //script link
 global.themeemoji = "👀" //ur theme emoji
-global.packname = "S P A R K Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.packname = "JOSH GURU" //ur sticker watermark packname
+global.author = "JOSH" //ur sticker watermark author
+global.wm = "J O S H " //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -53,7 +53,7 @@ global.mess = {
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'In process...',
+    wait: 'Tulia bro...',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
